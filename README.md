@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kartikay123](https://github.com/Kartikay123)
 
-- 💬 Ask me about **C,C++ Competitive Questions, React and Javascript.**
+- 💬 Ask me about **Frontend Developer(React) 2+ years of Experience.**
 
 - 📫 How to reach me **kartikg052@gmail.com**
 
