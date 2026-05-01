@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kartikay123](https://github.com/Kartikay123)
 
-- 💬 Ask me about **Full Stack Developer(React) 3+ years of Experience.**
+- 💬 Ask me about **Full Stack Developer 3+ years of Experience.**
 
 - 📫 How to reach me **kartikg052@gmail.com**
 
